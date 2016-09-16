@@ -22,6 +22,7 @@ CakePlugin::loadAll(array(
 Credits
 
 https://github.com/derekpunsalan/responsive-email
+
 https://www.iconfinder.com
 
 <h2>License</h2>
